@@ -20,10 +20,11 @@ The URLs of the email call-to-actions need to be replaced with your own, such as
 
 <h3>Available Templates</h3>
 <p float="left">
-  <picture><img alt="Template 1: Simple Button" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template1a.jpg" width="200px"/><p>Template 1: Simple Button</p></picture>
-  <picture><img alt="Template 2: 5-Star Rating" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template2a.jpg" width="200px"/><p>Template 2: 5-Star Rating</p></picture>
-  <picture><img alt="Template 3: Thumbs up, Thumbs down" src="https://mediaryte.com/wp-content/uploads/2023/11/Pasted-Image.jpg" width="200px"/><p>Template 3: Thumbs up, Thumbs down</p></picture>
-  <picture><img alt="Template 4: Facial Expression" src="https://mediaryte.com/wp-content/uploads/2023/11/customer-review-mailchimp-template4a.jpg" width="200px"/><p>Template 4: Facial Expression</p></picture>
+  <picture><img alt="Template 1: Simple Button" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template1a.jpg" width="300px"/><p>Template 1: Simple Button</p></picture>
+  <picture><img alt="Template 2: 5-Star Rating" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template2a.jpg" width="300px"/><p>Template 2: 5-Star Rating</p></picture>
+</p><p float="left">
+  <picture><img alt="Template 3: Thumbs up, Thumbs down" src="https://mediaryte.com/wp-content/uploads/2023/11/Pasted-Image.jpg" width="300px"/><p>Template 3: Thumbs up, Thumbs down</p></picture>
+  <picture><img alt="Template 4: Facial Expression" src="https://mediaryte.com/wp-content/uploads/2023/11/customer-review-mailchimp-template4a.jpg" width="300px"/><p>Template 4: Facial Expression</p></picture>
 </p>
 
 <h3>Video Instructions</h3>
