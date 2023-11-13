@@ -10,7 +10,7 @@ MailChimp email templates for getting customer reviews in HTML format. A MailChi
 </ul>
 
 <h3>Video Instructions</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWJxOJxlXX4?si=ikzJ-O53lssjoWDt&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ZWJxOJxlXX4/maxresdefault.jpg)](https://youtu.be/ZWJxOJxlXX4?si=MZUIRq4yGfckJ_Vy)
 This video is a walkthrough of Template 1 and Template 2 in the MailChimp email builder.
 
 If you would prefer to use the MailChimp classic builder, the templates are also available at <a href="https://mediaryte.com/mailchimp-templates-for-getting-customer-reviews/" target="_blank">MailChimp Templates For Getting Customer Reviews</a>
