@@ -1,5 +1,19 @@
 # customer-review-mailchimp-templates
-MailChimp email templates for getting customer reviews in HTML format. A MailChimp account is required to use these email templates. Each email template can be customized and imported in your MailChimp account to send to the customers on your contact list.
+MailChimp email templates for getting customer reviews in HTML format. Each email template can be customized and imported in your MailChimp account to send to the customers on your contact list.
+
+<strong>Note: A MailChimp account is required to use these email templates.</strong>
+
+The URLs of the email call-to-actions need to be replaced with your own, such as:
+<ul>
+  <li>Google Business Page Review Link</li>
+  <li>Facebook Page Recommendation Link</li>
+  <li>Testimonial Form</li>
+  <li>Customer Feedback Survey</li>
+  <li>Customer Review Funnel</li>
+  <li>Landing page for reviews on your website</li>
+</ul>
+
+<hr/>
 
 <h3>Available Templates</h3>
 <ul>
