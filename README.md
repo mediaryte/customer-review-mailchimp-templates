@@ -1,4 +1,7 @@
+<img src="https://mediaryte.com/wp-content/uploads/2018/03/mailchimp-templates-customer-review-system1a.jpg"/>
+
 # customer-review-mailchimp-templates
+
 MailChimp email templates for getting customer reviews in HTML format. Each email template can be customized and imported in your MailChimp account to send to the customers on your contact list.
 
 <strong>Note: A MailChimp account is required to use these email templates.</strong>
