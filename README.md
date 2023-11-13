@@ -19,12 +19,10 @@ The URLs of the email call-to-actions need to be replaced with your own, such as
 <hr/>
 
 <h3>Available Templates</h3>
-<ul>
-<li>Template 1: Simple Button</li>
-<li>Template 2: Star Rating</li>
-<li>Template 3: Thumbs up, Thumbs down</li>
-<li>Template 4: Facial Expression</li>
-</ul>
+<img alt="Template 1: Simple Button" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template1a.jpg" width="150px"/>
+<img alt="Template 2: 5-Star Rating" src="https://mediaryte.com/wp-content/uploads/2018/03/crs-mailchimp-template2a.jpg" width="150px"/>
+<img alt="Template 3: Thumbs up, Thumbs down" src="https://mediaryte.com/wp-content/uploads/2023/11/Pasted-Image.jpg" width="150px"/>
+<img alt="Template 4: Facial Expression" src="https://mediaryte.com/wp-content/uploads/2023/11/customer-review-mailchimp-template4a.jpg" width="150px"/>
 
 <h3>Video Instructions</h3>
 
