@@ -10,9 +10,9 @@ The URLs of the email call-to-actions need to be replaced with your own, such as
 <ul>
   <li>Google Business Page Review Link</li>
   <li>Facebook Page Recommendation Link</li>
-  <li>Testimonial Form</li>
-  <li>Customer Feedback Survey</li>
-  <li>Customer Review Funnel</li>
+  <li><a href="https://mediaryte.com/getting-client-testimonials-examples/" target="_blank">Testimonial Form</a></li>
+  <li><a href="https://mediaryte.com/create-a-customer-satisfaction-survey-examples/" target="_blank">Customer Satisfaction Survey</a></li>
+  <li><a href="https://mediaryte.com/how-to-get-customers-to-leave-a-review/" target="_blank">Customer Review Funnel</a></li>
   <li>Landing page for reviews on your website</li>
 </ul>
 
